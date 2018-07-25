@@ -1,0 +1,20 @@
+
+Various new events/sites:
+
+Lost city - Ruined city with scattered danger and loot
+Progress:
+PoC Symbolresolver is ready to go - needs fixing to remove red glow on skelettons and remove their apperal
+
+Abandoned castle - crumbling castle. Contains various resources and maybe melee weapons/bows
+
+Abandoned outpost - Outpost that has fallen victim to a plague, manhunters or a raid. Danger might still be present. Loot is weapons and/or resources
+
+Insect cave - Cave filled with hives and insects. Contains large amounts of insect jelly and maybe something else interesting
+
+(maybe) Last stand - Colony gets attacked by multiple waves of raids in quick succession
+
+Animals binging on Ambrosia - will defend their stockpile and turn manhunter if approached (like insects with hives)
+
+
+Other stuff:
+Fertility pumps - increases fertility like moisture pump
